@@ -166,7 +166,7 @@ export const BentoGridItem = ({
                  handleClick={handleCopy}
                  otherClasses="!bg-[#161A31]"
              />
-              {/*</div>*/}
+              </div>
           )}
         </div>
       </div>
