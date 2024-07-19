@@ -10,17 +10,15 @@ const Footer = () => {
 
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[45vw]">
-          Ready to take <span className="text-purple">your</span> digital
-          presence to the next level?
+           Take a Peek into <span className="text-purple">My</span> World
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          Reach out to me today and let&apos;s discuss how I can help you
-          achieve your goals.
+          & feel free to connect on a cup of ☕
         </p>
         <a href="mailto:saharsh3008@gmail.com">
           <MagicButton
-            title="Let's get in touch"
-            icon={<FaLocationArrow />}
+            title="Reach Out ✉️"
+            icon
             position="right"
           />
         </a>
@@ -30,14 +28,28 @@ const Footer = () => {
           Copyright © 2024 Saharsh
         </p>
         <div className="flex items-center md:gap-3 gap-6">
-          {socialMedia.map((profile) => (
+{/*           {socialMedia.map((profile) => (
             <div
               key={profile.id}
               className="w-10 h-10 cursor-pointer flex justify-center items-center backdrop-filter backdrop-blur-lg saturate-180 bg-opacity-75 bg-black-200 rounded-lg border border-black-300"
             >
               <Image src={profile.img} alt="icons" width={20} height={20} />
             </div>
-          ))}
+          ))} */}
+          <a href='https://github.com/saharsh3008'>
+          <MagicButton 
+          title='Github'
+          icon="/git.svg"
+          position='centre'
+          />
+          </a>
+          <a href='https://www.linkedin.com/in/saharsh08/'>
+          <MagicButton 
+          title='Linkedin'
+          icon="/git.svg"
+          position='centre'
+          />
+          </a>
         </div>
         </div>
         </footer>
