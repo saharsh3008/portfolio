@@ -84,7 +84,7 @@ export const navItems = [
       des: "Explore comfortable and convenient PG accommodations with our Amber PG accommodation website.",
       img: "/amber clone.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://amberclone-saharshs-projects-a56d9ef8.vercel.app/",
+      link: "https://amberclone.vercel.app/",
     },
     {
       id: 3,
@@ -92,7 +92,7 @@ export const navItems = [
       des: "Embark on unforgettable journeys and seamless travel experiences with our travel portal.",
       img: "/global gateway.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://globalgatewaytour-saharshs-projects-a56d9ef8.vercel.app/",
+      link: "https://globalgatewaytour.vercel.app/",
     },
     {
       id: 4,
@@ -100,7 +100,7 @@ export const navItems = [
       des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
       img: "/p4.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://appleiphone-saharshs-projects-a56d9ef8.vercel.app/",
+      link: "https://3dphones.vercel.app/",
     },
     {
       id: 5,
