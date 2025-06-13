@@ -6,7 +6,7 @@ A clean and visually engaging personal portfolio to highlight my web projects, s
 
 ## 🌟 Demo & Live Site
 
-🔗 **Live Site:** Add your site URL here (e.g. https://saharsh.dev)  
+🔗 **Live Site:** Add your site URL here (e.g. https://saharshpro.vercel.app)  
 📁 **Repo:** https://github.com/saharsh3008/project_portfolio
 
 ---
